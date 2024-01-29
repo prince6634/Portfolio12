@@ -410,19 +410,19 @@ button::before{
 
  #project-1
  {
- background-image:url(./Project1.png);
+ background-image:url("Project1.png");
  }
  #project-2
  { margin-left: 120px;
- background-image:url(./Project2.png);
+ background-image:url("Project2.png");
  }
  #project-3
  {
- background-image:url(./Project3.png);
+ background-image:url("Project3.png");
  }
  #project-4
  {margin-left: 120px;
- background-image:url(./Project4.png);
+ background-image:url("Project4.png");
  }
  .skills-box{
    display:flex;
