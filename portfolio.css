@@ -298,7 +298,7 @@ button::before{
  .project-card{
    width:90%;
    height:550px;
-   background-image:url(/image1/Project1.png); 
+   background-image:url("Project1.png"); 
    
    background-size:cover;
    position:relative;
